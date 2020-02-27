@@ -1,3 +1,3 @@
 # rabbitmq-local
 
-start rabbit `./run`
+start rabbit `./run.sh`
